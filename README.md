@@ -27,7 +27,7 @@ W mojej pracy programistycznej często korzystam z różnych narzędzi i środow
 📆 Monday: Wykorzystuję Monday jako narzędzie do zarządzania projektami i planowania zadań.<br>
 📋 Miro: Używam Miro do tworzenia diagramów, map myśli i współpracy nad koncepcjami projektowymi.<br>
 📬 Postman: Wykorzystuję Postmana do testowania i dokumentowania API. To potężne narzędzie, które umożliwia mi wysyłanie zapytań HTTP, testowanie odpowiedzi i monitorowanie API.<br>
-🔍 Wireshark: Używam Wiresharka do analizy ruchu sieciowego. To narzędzie umożliwia mi monitorowanie i debugowanie komunikacji sieciowej, co jest szczególnie przydatne przy rozwiązywaniu problemów z sieciami i aplikacjami sieciowymi.<br><br>
+🔍 Wireshark: Używam Wiresharka do analizy ruchu sieciowego. To narzędzie umożliwia mi monitorowanie i debugowanie komunikacji sieciowej, co jest szczególnie przydatne przy rozwiązywaniu problemów z sieciami i aplikacjami sieciowymi.<br>
 
 Dodatkowo, korzystam z edytorów kodu takich jak 💻 Visual Studio Code i 🐍 PyCharm, które umożliwiają mi efektywne pisanie, debugowanie i testowanie aplikacji.<br>
 
