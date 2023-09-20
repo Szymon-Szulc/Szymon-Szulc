@@ -8,7 +8,7 @@ Nazywam się Szymon Szulc, znany również jako Ice Thief. Mam 20 lat i jestem m
 
 🎮 Tworzenie gier mobilnych: Oprócz tego, uwielbiam tworzyć gry mobilne na platformę Android. Moja najnowsza gra jest pisana w silniku Godot, który daje mi możliwość wykorzystania mojej kreatywności i umiejętności programowania.
 
-🧩 Python, React, React Native: Posiadam solidną wiedzę i doświadczenie w pracy z Pythonem, Reactem oraz React Native. Dzięki tym technologiom tworzę nowoczesne i interaktywne aplikacje.
+🧩 Python, React, React Native i PHP: Posiadam solidną wiedzę i doświadczenie w pracy z Pythonem, PHP, Reactem oraz React Native. Dzięki tym technologiom tworzę nowoczesne i interaktywne aplikacje.
 
 📚 Dokumentacja API i REST API: Mam doświadczenie w tworzeniu dokumentacji API oraz REST API. Znam najlepsze praktyki w tej dziedzinie i stawiam na czytelną i zrozumiałą dokumentację.
 
