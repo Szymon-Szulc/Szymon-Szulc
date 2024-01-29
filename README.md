@@ -1,6 +1,6 @@
 ## 👋 Cześć wszystkim!
 
-Nazywam się Szymon Szulc, znany również jako Ice Thief. Mam 20 lat i jestem młodym programistą z pasją do informatyki. Od najmłodszych lat interesowałem się tym obszarem i rozwijam swoje umiejętności.
+Nazywam się Szymon Szulc, znany również jako Ice Thief. Mam 21 lat i jestem młodym programistą z pasją do informatyki. Od najmłodszych lat interesowałem się tym obszarem i rozwijam swoje umiejętności.
 
 ## 🌟 Obszary specjalizacji
 
